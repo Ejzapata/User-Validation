@@ -1,0 +1,36 @@
+/* Eleni Zapata*/
+
+/* These are my customizations for body*/
+body
+ {
+  background-color: Teal;
+  background-repeat: round;
+
+}
+/* These are my customizations for h1*/
+h1
+{
+text-align: center;
+text-size-adjust: 100px;
+text-emphasis: 100px;
+
+}
+/* These are my customizations for h2*/
+h2
+{
+text-align: center;
+}
+/* These are my customizations for my form*/
+form
+{
+    text-size-adjust: 500px;
+text-align: center;
+text-decoration: wavy;
+text-decoration-line: underline;
+
+}
+/* These are my customizations for my div id's*/
+div
+{
+    text-align: center;
+}
